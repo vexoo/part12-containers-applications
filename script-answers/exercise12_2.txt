@@ -1,0 +1,8 @@
+step 1: docker container run -it 
+
+step 2: mkdir -p /usr/src/app
+
+step 3: touch /usr/src/app/index.js
+
+step 4: exit
+
